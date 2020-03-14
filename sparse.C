@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
+
 int **a, **b, r1, c1;
 void create_VM(int );
 int main()
